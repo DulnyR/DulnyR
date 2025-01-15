@@ -2,9 +2,16 @@
 Welcome to my GitHub profile!  
 
 ## About Me 
-<img src="https://www.tcd.ie/identity/assets/logos/Logos%20page/jpg/Trinity_Main_Logo.jpg" alt="Trinity College Dublin" width="300"/>
 
-I'm a penultimate-year **Computer Science & Business** student at **Trinity College Dublin**, currently on exchange at **Universidad de Salamanca**. My passion lies in **data science**, **machine learning**, and **software engineering**. I enjoy leveraging technology to tackle complex problems and create impactful solutions.  
+<div style="display: flex; align-items: center;">
+  <img src="https://naasprinting.ie/wp-content/uploads/2020/08/Trinity-College-Dublin-Logo.png" alt="Trinity College Dublin" width="100" style="margin-right: 15px;"/>
+  <p>
+    I'm a penultimate-year <strong>Computer Science & Business</strong> student at <strong>Trinity College Dublin</strong>, 
+    currently on exchange at <strong>Universidad de Salamanca</strong>. My passion lies in 
+    <strong>data science</strong>, <strong>machine learning</strong>, and <strong>software engineering</strong>. 
+    I enjoy leveraging technology to tackle complex problems and create impactful solutions.
+  </p>
+</div>
  
 
 ## Professional Experience  
