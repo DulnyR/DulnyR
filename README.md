@@ -3,12 +3,18 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="padding-right: 15px; border: none;"><img src="https://yt3.googleusercontent.com/ytc/AIdro_nH7qFB7HgTxCxOt1LFqPYoL9iJR43eowDurL8ZaSNso34=s900-c-k-c0x00ffffff-no-rj" alt="Trinity College Dublin" width="150"/></td>
-    <td style="border: none;">I'm a penultimate-year <strong>Computer Science & Business</strong> student at <strong>Trinity College Dublin</strong>, currently on exchange at <strong>Universidad de Salamanca</strong>. My passion lies in <strong>data science</strong>, <strong>machine learning</strong>, and <strong>software engineering</strong>. I enjoy leveraging technology to tackle complex problems and create impactful solutions.</td>
-  </tr>
-</table>
+## About Me
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://yt3.googleusercontent.com/ytc/AIdro_nH7qFB7HgTxCxOt1LFqPYoL9iJR43eowDurL8ZaSNso34=s900-c-k-c0x00ffffff-no-rj" alt="Trinity College Dublin" width="150" style="margin-right: 15px;"/>
+  <div>
+    I'm a penultimate-year <strong>Computer Science & Business</strong> student at <strong>Trinity College Dublin</strong>, 
+    currently on exchange at <strong>Universidad de Salamanca</strong>. My passion lies in 
+    <strong>data science</strong>, <strong>machine learning</strong>, and <strong>software engineering</strong>. 
+    I enjoy leveraging technology to tackle complex problems and create impactful solutions.
+  </div>
+</div>
+
 
 
 ## Professional Experience  
