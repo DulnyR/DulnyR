@@ -39,31 +39,10 @@ I'm a penultimate-year **Computer Science & Business** student at **Trinity Coll
 
 ## Skills & Technologies  
 
-- **Programming Languages**: 
-  - Python: 🐍 
-  - Java: ☕
-  - C++: 💻 
-  - C#: #️⃣ 
-  - JavaScript: ⚡
-  - Swift: 🍏
-
-- **Libraries & Frameworks**: 
-  - NumPy: 🔢 
-  - Pandas: 🐼 
-  - STUMPY: 🌲 
-  - DVC: 🚚 
-  - Quarto: 📊
-  - Unity: 🎮 
-
-- **Tools**: 
-  - Google Cloud Storage: ☁️
-  - Git: 🧑‍💻 
-  - Docker: 🐳 
-
-- **Areas of Interest**: 
-  - Data Science: 📊 
-  - Machine Learning: 🤖 
-  - Software Engineering: 💻 
+- **Programming Languages**: Python 🐍, Java ☕, C++ 💻, C# #️⃣, JavaScript ⚡, Swift 🍏  
+- **Libraries & Frameworks**: NumPy 🔢, Pandas 🐼, STUMPY 🌲, DVC 🚚, Quarto 📊, Unity 🎮  
+- **Tools**: Google Cloud Storage ☁️, Git 🧑‍💻, Docker 🐳  
+- **Areas of Interest**: Data Science 📊, Machine Learning 🤖, Software Engineering 💻
 
 ## Let's Connect  
 
