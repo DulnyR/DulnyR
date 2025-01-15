@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 ## About Me 
 
 <div style="display: flex; align-items: center;">
-  <img src="https://naasprinting.ie/wp-content/uploads/2020/08/Trinity-College-Dublin-Logo.png" alt="Trinity College Dublin" width="100" style="margin-right: 15px;"/>
+  <img src="https://yt3.googleusercontent.com/ytc/AIdro_nH7qFB7HgTxCxOt1LFqPYoL9iJR43eowDurL8ZaSNso34=s900-c-k-c0x00ffffff-no-rj" alt="Trinity College Dublin" width="100" style="margin-right: 15px;"/>
   <p>
     I'm a penultimate-year <strong>Computer Science & Business</strong> student at <strong>Trinity College Dublin</strong>, 
     currently on exchange at <strong>Universidad de Salamanca</strong>. My passion lies in 
