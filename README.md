@@ -3,21 +3,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-<table style="width: 100%; border: 0; border-spacing: 0;">
-  <tr>
-    <td style="width: 150px; vertical-align: top; padding-right: 15px; border: none;">
-      <img src="https://yt3.googleusercontent.com/ytc/AIdro_nH7qFB7HgTxCxOt1LFqPYoL9iJR43eowDurL8ZaSNso34=s900-c-k-c0x00ffffff-no-rj" alt="Trinity College Dublin" width="150"/>
-    </td>
-    <td style="vertical-align: top; border: none;">
-      I'm a penultimate-year <strong>Computer Science & Business</strong> student at <strong>Trinity College Dublin</strong>, 
-      currently on exchange at <strong>Universidad de Salamanca</strong>. My passion lies in 
-      <strong>data science</strong>, <strong>machine learning</strong>, and <strong>software engineering</strong>. 
-      I enjoy leveraging technology to tackle complex problems and create impactful solutions.
-    </td>
-  </tr>
-</table>
-
-
+I'm a penultimate-year **Computer Science & Business** student at **Trinity College Dublin**, currently on exchange at **Universidad de Salamanca**. My passion lies in **data science**, **machine learning**, and **software engineering**. I enjoy leveraging technology to tackle complex problems and create impactful solutions.  
 
 ## Professional Experience  
 
