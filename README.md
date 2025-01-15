@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: center;">
   <img src="https://yt3.googleusercontent.com/ytc/AIdro_nH7qFB7HgTxCxOt1LFqPYoL9iJR43eowDurL8ZaSNso34=s900-c-k-c0x00ffffff-no-rj" alt="Trinity College Dublin" width="150" style="margin-right: 15px;"/>
   <div>
     I'm a penultimate-year <strong>Computer Science & Business</strong> student at <strong>Trinity College Dublin</strong>, 
@@ -14,6 +14,7 @@ Welcome to my GitHub profile!
     I enjoy leveraging technology to tackle complex problems and create impactful solutions.
   </div>
 </div>
+
 
 
 
