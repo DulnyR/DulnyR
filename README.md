@@ -40,30 +40,30 @@ I'm a penultimate-year **Computer Science & Business** student at **Trinity Coll
 ## Skills & Technologies  
 
 - **Programming Languages**: 
-  - Python: 🐍 [Font Awesome Python Icon](https://fontawesome.com/icons/python?f=brands)
-  - Java: ☕ [Font Awesome Java Icon](https://fontawesome.com/icons/java?f=brands)
-  - C++: 💻 [Font Awesome C++ Icon](https://fontawesome.com/icons/cplusplus?f=brands)
-  - C#: #️⃣ [Font Awesome C# Icon](https://fontawesome.com/icons/c-sharp?f=brands)
-  - JavaScript: ⚡ [Font Awesome JavaScript Icon](https://fontawesome.com/icons/js?f=brands)
-  - Swift: 🍏 [Font Awesome Swift Icon](https://fontawesome.com/icons/swift?f=brands)
+  - Python: 🐍 
+  - Java: ☕
+  - C++: 💻 
+  - C#: #️⃣ 
+  - JavaScript: ⚡
+  - Swift: 🍏
 
 - **Libraries & Frameworks**: 
-  - NumPy: 🔢 ![NumPy Logo](https://numpy.org/images/logo.svg)
-  - Pandas: 🐼 ![Pandas Logo](https://pandas.pydata.org/static/img/pandas.svg)
-  - STUMPY: 🌲 ![STUMPY Logo](https://stumpy.readthedocs.io/en/latest/_images/logo.svg)
-  - DVC: 🚚 ![DVC Logo](https://dvc.org/static/img/dvc-logo.svg)
-  - Quarto: 📊 ![Quarto Logo](https://quarto.org/docs/images/logo.svg)
-  - Unity: 🎮 ![Unity Logo](https://unity.com/favicon.ico)
+  - NumPy: 🔢 
+  - Pandas: 🐼 
+  - STUMPY: 🌲 
+  - DVC: 🚚 
+  - Quarto: 📊
+  - Unity: 🎮 
 
 - **Tools**: 
-  - Google Cloud Storage: ☁️ ![Google Cloud Icon](https://material.io/resources/icons/?icon=cloud&style=baseline)
-  - Git: 🧑‍💻 ![Git Icon](https://github.com/logos)
-  - Docker: 🐳 ![Docker Icon](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png)
+  - Google Cloud Storage: ☁️
+  - Git: 🧑‍💻 
+  - Docker: 🐳 
 
 - **Areas of Interest**: 
-  - Data Science: 📊 ![Data Science Icon](https://www.iconfinder.com/icons/2806392/data_graph_science_icon)
-  - Machine Learning: 🤖 ![Machine Learning Icon](https://material.io/resources/icons/?icon=memory&style=baseline)
-  - Software Engineering: 💻 ![Software Engineering Icon](https://www.iconfinder.com/icons/2905943/computer_engineer_programming_software_developer_icon)
+  - Data Science: 📊 
+  - Machine Learning: 🤖 
+  - Software Engineering: 💻 
 
 ## Let's Connect  
 
